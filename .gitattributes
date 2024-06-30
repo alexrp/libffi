@@ -1,7 +1,3 @@
-*	text=auto
-
-*.sln	text eol=crlf
-*.vcxproj*	text eol=crlf
-
+* text
 *.zig eol=lf
 *.zon eol=lf
